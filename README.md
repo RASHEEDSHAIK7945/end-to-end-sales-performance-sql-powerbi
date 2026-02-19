@@ -5,7 +5,7 @@
 To explore the interactive Power BI dashboard locally:
 
 1. Download the Power BI Desktop file:  
-   `powerbi/sales-performance-dashboard.pbix`  
+ 👉 [Download](powerbi/sales-performance-dashboard.pbix) 
 2. Open the file using **Power BI Desktop**.  
 3. Update SQL Server connection settings if prompted to refresh data.
 
